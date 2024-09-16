@@ -18,3 +18,47 @@ IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度
 94.177.8.23,443,443,true,VIE,Europe,Vienna,188,7.03
 35.154.110.69,443,443,true,BOM,Asia Pacific,Mumbai,128,6.68
 204.110.223.39,443,443,true,ORD,North America,Chicago,223,6.34
+8.219.165.33,443,443,true,IAD,North America,Ashburn,90,14.20
+3.108.117.25,443,443,true,BOM,Asia Pacific,Mumbai,143,12.47
+3.123.182.46,443,443,true,FRA,Europe,Frankfurt,164,11.75
+75.2.32.4,443,443,true,IAD,North America,Ashburn,74,10.54
+99.83.209.185,443,443,true,IAD,North America,Ashburn,74,10.01
+3.75.149.151,443,443,true,FRA,Europe,Frankfurt,178,9.88
+158.178.192.221,443,443,true,CDG,Europe,Paris,211,9.63
+172.179.181.196,443,443,true,SEA,North America,Seattle,218,8.34
+54.193.48.13,443,443,true,SJC,North America,San Jose,171,7.45
+8.20.125.1,443,443,true,SFO,North America,San Francisco,249,7.18
+94.177.8.34,443,443,true,VIE,Europe,Vienna,178,6.99
+195.54.174.74,443,443,true,AMS,Europe,Amsterdam,186,6.99
+195.62.33.94,443,443,true,FRA,Europe,Frankfurt,180,6.98
+152.70.174.178,443,443,true,FRA,Europe,Frankfurt,178,6.93
+8.20.125.2,443,443,true,SFO,North America,San Francisco,240,6.87
+130.162.251.136,443,443,true,FRA,Europe,Frankfurt,192,6.55
+141.147.53.158,443,443,true,FRA,Europe,Frankfurt,194,6.53
+3.13.196.41,443,443,true,ORD,North America,Chicago,228,6.46
+3.75.170.179,443,443,true,FRA,Europe,Frankfurt,177,6.33
+152.70.191.97,443,443,true,FRA,Europe,Frankfurt,181,6.29
+18.171.168.33,443,443,true,LHR,Europe,London,196,6.15
+141.148.227.19,443,443,true,AMS,Europe,Amsterdam,213,6.13
+13.37.205.78,443,443,true,CDG,Europe,Paris,177,5.71
+141.147.110.44,443,443,true,FRA,Europe,Frankfurt,219,5.68
+152.70.56.130,443,443,true,FRA,Europe,Frankfurt,206,5.66
+45.61.161.237,443,443,true,FRA,Europe,Frankfurt,197,5.59
+94.177.8.54,443,443,true,VIE,Europe,Vienna,214,5.55
+89.168.73.163,443,443,true,FRA,Europe,Frankfurt,195,5.55
+132.145.235.36,443,443,true,FRA,Europe,Frankfurt,183,5.51
+185.9.55.119,443,443,true,CPH,Europe,Copenhagen,197,5.51
+3.9.12.200,443,443,true,LHR,Europe,London,208,5.50
+212.237.218.164,443,443,true,HEL,Europe,Helsinki,247,5.44
+94.177.8.26,443,443,true,VIE,Europe,Vienna,202,5.30
+45.147.51.230,443,443,true,FRA,Europe,Frankfurt,282,5.20
+77.238.244.214,443,443,true,AMS,Europe,Amsterdam,187,5.13
+3.8.4.143,443,443,true,LHR,Europe,London,197,5.04
+172.191.74.198,443,443,true,EWR,North America,Newark,265,4.98
+20.240.217.172,443,443,true,FRA,Europe,Frankfurt,274,4.87
+3.120.8.31,443,443,true,FRA,Europe,Frankfurt,207,4.68
+52.18.155.172,443,443,true,DUB,Europe,Dublin,198,4.67
+20.221.32.145,443,443,true,ORD,North America,Chicago,256,4.58
+67.207.73.198,443,443,true,FRA,Europe,Frankfurt,294,4.57
+185.103.109.139,443,443,true,WAW,Europe,Warsaw,207,4.56
+
